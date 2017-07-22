@@ -1,0 +1,3 @@
+system = "pspminis"
+game_name = "_generic"
+launching_image = "https://raw.githubusercontent.com/TMNTturtleguy/ComicBook-Theme-Launch-Images-for-Retropie/master/4x3-Launching_ComicRip/pspminis/launching.png"

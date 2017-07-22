@@ -1,0 +1,3 @@
+system = "atari2600"
+game_name = "_generic"
+launching_image = "https://raw.githubusercontent.com/lipebello/retrorama-launching-images/master/16x9-packs/NOGRID/atari2600/launching.jpg"

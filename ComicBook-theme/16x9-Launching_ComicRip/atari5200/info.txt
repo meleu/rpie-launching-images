@@ -1,0 +1,3 @@
+system = "atari5200"
+game_name = "_generic"
+launching_image = "https://raw.githubusercontent.com/TMNTturtleguy/ComicBook-Theme-Launch-Images-for-Retropie/master/16x9-Launching_ComicRip/atari5200/launching.png"
